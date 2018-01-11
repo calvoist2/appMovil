@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlMundo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_description_hotel">Map</string>
+    <string name="priceLabel">Precio Por Noche</string>
+    <string name="swimmingPool">Piscina:</string>
+    <string name="freeInternet">Internet Gratis:</string>
+    <string name="breakfastIncluded">Desayuno Incluido:</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="hotelList">Lista de hoteles</string>
+    <string name="loading">Cargando</string>
+</resources>
