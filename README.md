@@ -5,6 +5,8 @@ Para poder ejecutar la aplicacion móvil es necesario acceder primero a la aplic
 
 http://testhotels.herokuapp.com/
 
+La carpeta que contiene la aplicación se llama AlmundoAndroid
+
 
 ¿Cómo fue construida la aplicación?
 
